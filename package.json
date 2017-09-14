@@ -1,0 +1,27 @@
+{
+  "name": "wasb-stream",
+  "version": "0.0.1",
+  "description": "Duplex Stream which allows to upload files to Azure Blob Storage",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/pekebuda/wasb-stream.git"
+  },
+  "keywords": [
+    "Stream",
+    "Azure",
+    "Blob",
+    "Storage",
+    "Upload"
+  ],
+  "author": "Fernando Diaz Laclaustra",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.20.1"
+  }
+}
