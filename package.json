@@ -1,6 +1,6 @@
 {
   "name": "wasb-stream",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Duplex Stream which allows to upload files to Azure Blob Storage",
   "main": "index.js",
   "scripts": {
