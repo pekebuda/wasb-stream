@@ -25,7 +25,7 @@ var wasbStream = require('wasb-stream');
 
 ## Changes
 
- - v1.0.0 - listenerFn can return an instance of Error and it will be signaled to the stream
+ - v0.0.3 - First fully functional version
 
 
 ## Get involved
